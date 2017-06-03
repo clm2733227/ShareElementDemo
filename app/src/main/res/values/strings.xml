@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShareElementDemo</string>
+    <string name="share_animation">share_element</string>
+</resources>
